@@ -40,12 +40,7 @@ Founder of **[Atherix](https://atherix.org)**.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 ![Stats](https://github-stats-extended.vercel.app/api?username=D-gger&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=D-gger&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
