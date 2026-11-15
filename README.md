@@ -52,7 +52,7 @@ Founder of **[Atherix](https://atherix.org)**.
 ## 📫 Let's connect
 
 - 🌍 Website: [atherix.org](https://atherix.org)
-- 💬 Discord: @d4gg3r
+- 💬 Discord: `@d4gg3r`
 - 📧 Email: abood.qibii@gmail.com
 
 <div align="center">
